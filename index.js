@@ -15,7 +15,7 @@ program.action(() => {
       {
         type: "input",
         name: "Message",
-        message: "What would you like to say?",
+        message: "Enter the message you want to send:",
       },
       {
         type: "input",
